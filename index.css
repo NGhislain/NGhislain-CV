@@ -1,0 +1,31 @@
+body{
+   
+
+  
+  background-image: linear-gradient(to right, #141e30, #243b55);
+  
+}
+header{
+    font-size: large;
+    font-family: 'font1';
+  text-align: center;
+  color : white ;
+
+}
+nav{
+    font-size: large;
+    font-family: 'font1';
+  text-align: center;
+  
+}
+a{
+ color : white ;
+
+}
+main{
+
+    color : white ;
+    margin-left: 200px;
+    margin-top : 100px
+
+}
